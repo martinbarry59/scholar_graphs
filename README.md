@@ -1,9 +1,4 @@
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Issues][issues-shield]][issues-url]
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
