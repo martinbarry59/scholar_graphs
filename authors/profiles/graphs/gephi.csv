@@ -1,0 +1,995 @@
+Source,Target,Type,Id,Label,Weight
+Alireza Modirshanechi,Wulfram Gerstner,Undirected,0,,1
+Alireza Modirshanechi,Johanni Brea,Undirected,1,,1
+Alireza Modirshanechi,Michael Herzog,Undirected,2,,1
+Alireza Modirshanechi,Vahid Esmaeili,Undirected,3,,1
+Alireza Modirshanechi,Carl Petersen,Undirected,4,,1
+Alireza Modirshanechi,Sylvain Crochet,Undirected,5,,1
+Alireza Modirshanechi,Anastasiia Oryshchuk,Undirected,6,,1
+Alireza Modirshanechi,Marco P. Lehmann,Undirected,7,,1
+Alireza Modirshanechi,Vasiliki Liakoni,Undirected,8,,1
+Alireza Modirshanechi,Samuel Muscinelli,Undirected,9,,1
+Alireza Modirshanechi,Keita Tamura,Undirected,10,,1
+Alireza Modirshanechi,Marta Boscaglia,Undirected,11,,1
+Alireza Modirshanechi,Hamid Aghajan,Undirected,12,,1
+Alireza Modirshanechi,Parnian Kassraie,Undirected,13,,1
+Alireza Modirshanechi,Guillaume BELLEC,Undirected,14,,1
+Alireza Modirshanechi,Kerstin Preuschoff,Undirected,15,,1
+Alireza Modirshanechi,Sophia Becker,Undirected,16,,1
+Alireza Modirshanechi,Kacper Kondrakiewicz,Undirected,17,,1
+Alireza Modirshanechi,Christos Sourmpis,Undirected,18,,1
+Wulfram Gerstner,Carl Petersen,Undirected,19,,1
+Wulfram Gerstner,Marco P. Lehmann,Undirected,20,,1
+Wulfram Gerstner,Vasiliki Liakoni,Undirected,21,,1
+Wulfram Gerstner,Samuel Muscinelli,Undirected,22,,1
+Wulfram Gerstner,Keita Tamura,Undirected,23,,1
+Wulfram Gerstner,Guillaume BELLEC,Undirected,24,,1
+Wulfram Gerstner,Sophia Becker,Undirected,25,,1
+Wulfram Gerstner,Christos Sourmpis,Undirected,26,,1
+Wulfram Gerstner,Tilo Schwalger,Undirected,27,,1
+Wulfram Gerstner,Chiara Gastaldi,Undirected,28,,1
+Johanni Brea,Marco P. Lehmann,Undirected,29,,1
+Johanni Brea,Vasiliki Liakoni,Undirected,30,,1
+Johanni Brea,Samuel Muscinelli,Undirected,31,,1
+Johanni Brea,Guillaume BELLEC,Undirected,32,,1
+Johanni Brea,Sophia Becker,Undirected,33,,1
+Johanni Brea,Alexander Seeholzer,Undirected,34,,1
+Michael Herzog,Marco P. Lehmann,Undirected,35,,1
+Vahid Esmaeili,Sylvain Crochet,Undirected,36,,1
+Vahid Esmaeili,Mathew E. Diamond,Undirected,37,,1
+Vahid Esmaeili,Keita Tamura,Undirected,38,,1
+Vahid Esmaeili,Mohammad Hassan Moradi,Undirected,39,,1
+Vahid Esmaeili,Athena Akrami,Undirected,40,,1
+Vahid Esmaeili,Mohammad B. SHAMSOLLAHI,Undirected,41,,1
+Vahid Esmaeili,Pierre Le Merre,Undirected,42,,1
+Vahid Esmaeili,Samuel Muscinelli,Undirected,43,,1
+Vahid Esmaeili,Varun Sreenivasan,Undirected,44,,1
+Vahid Esmaeili,Dr. Sohrab Saberi Moghadam,Undirected,45,,1
+Vahid Esmaeili,Farzad Towhidkhah,Undirected,46,,1
+Vahid Esmaeili,Christos Sourmpis,Undirected,47,,1
+Carl Petersen,Sylvain Crochet,Undirected,48,,1
+Carl Petersen,Jochen Staiger,Undirected,49,,1
+Carl Petersen,Graham Knott,Undirected,50,,1
+Carl Petersen,Samuel Muscinelli,Undirected,51,,1
+Carl Petersen,Keita Tamura,Undirected,52,,1
+Carl Petersen,Christos Sourmpis,Undirected,53,,1
+Sylvain Crochet,Samuel Muscinelli,Undirected,54,,1
+Sylvain Crochet,Keita Tamura,Undirected,55,,1
+Sylvain Crochet,Christos Sourmpis,Undirected,56,,1
+Sylvain Crochet,Pierre Le Merre,Undirected,57,,1
+Sylvain Crochet,Laura MJ Fernandez,Undirected,58,,1
+Anastasiia Oryshchuk,Samuel Muscinelli,Undirected,59,,1
+Anastasiia Oryshchuk,Keita Tamura,Undirected,60,,1
+Anastasiia Oryshchuk,Christos Sourmpis,Undirected,61,,1
+Marco P. Lehmann,Vasiliki Liakoni,Undirected,62,,1
+Marco P. Lehmann,He A. Xu,Undirected,63,,1
+Marco P. Lehmann,Dane Corneil,Undirected,64,,1
+Marco P. Lehmann,Kerstin Preuschoff,Undirected,65,,1
+Marco P. Lehmann,Antoine Lutti,Undirected,66,,1
+Marco P. Lehmann,Jan Skaloud,Undirected,67,,1
+Samuel Muscinelli,Keita Tamura,Undirected,68,,1
+Samuel Muscinelli,Tilo Schwalger,Undirected,69,,1
+Samuel Muscinelli,Florian Colombo,Undirected,70,,1
+Samuel Muscinelli,Alexander Seeholzer,Undirected,71,,1
+Samuel Muscinelli,ashok litwin-kumar,Undirected,72,,1
+Samuel Muscinelli,Kameron Decker Harris,Undirected,73,,1
+Samuel Muscinelli,Marjorie Xie,Undirected,74,,1
+Samuel Muscinelli,Mark J. Wagner,Undirected,75,,1
+Samuel Muscinelli,Chiara Gastaldi,Undirected,76,,1
+Keita Tamura,Kenji W Koyano,Undirected,77,,1
+Keita Tamura,Takahiro Osada,Undirected,78,,1
+Keita Tamura,Kentaro Miyamoto,Undirected,79,,1
+Keita Tamura,Masaki Takeda,Undirected,80,,1
+Keita Tamura,Teppei Matsui,Undirected,81,,1
+Keita Tamura,Tsukasa Kamigaki,Undirected,82,,1
+Keita Tamura,Johannes Mayrhofer,Undirected,83,,1
+Keita Tamura,Junichi Chikazoe,Undirected,84,,1
+Keita Tamura,Toru Komatsu,Undirected,85,,1
+Keita Tamura,Kaoru Inokuchi,Undirected,86,,1
+Keita Tamura,Reza Asri,Undirected,87,,1
+Parnian Kassraie,Andreas Krause,Undirected,88,,1
+Parnian Kassraie,Jonas Rothfuss,Undirected,89,,1
+Parnian Kassraie,Ilija Bogunovic,Undirected,90,,1
+Parnian Kassraie,Bhavya Sukhija,Undirected,91,,1
+Parnian Kassraie,Felix Schur,Undirected,92,,1
+Parnian Kassraie,Aldo Pacchiano,Undirected,93,,1
+Parnian Kassraie,Nicolas Emmenegger,Undirected,94,,1
+Guillaume BELLEC,Wolfgang Maass,Undirected,95,,1
+Guillaume BELLEC,Robert Legenstein,Undirected,96,,1
+Guillaume BELLEC,Darjan Salaj,Undirected,97,,1
+Guillaume BELLEC,Anand Subramoney,Undirected,98,,1
+Guillaume BELLEC,Franz Scherr,Undirected,99,,1
+Guillaume BELLEC,David Kappel,Undirected,100,,1
+Guillaume BELLEC,Ceca Kraišniković,Undirected,101,,1
+Guillaume BELLEC,Bernd Illing,Undirected,102,,1
+Guillaume BELLEC,Steve Furber,Undirected,103,,1
+Guillaume BELLEC,Christian Mayr,Undirected,104,,1
+Guillaume BELLEC,chen liu,Undirected,105,,1
+Guillaume BELLEC,Ana Stanojevic,Undirected,106,,1
+Guillaume BELLEC,Daniel Wolff,Undirected,107,,1
+Guillaume BELLEC,Tillman Weyde,Undirected,108,,1
+Guillaume BELLEC,Anders Friberg,Undirected,109,,1
+Guillaume BELLEC,Romain Brette,Undirected,110,,1
+Guillaume BELLEC,Pierre Yger,Undirected,111,,1
+Guillaume BELLEC,Christos Sourmpis,Undirected,112,,1
+Kerstin Preuschoff,Wolfgang Einhäuser Treyer,Undirected,113,,1
+Kerstin Preuschoff,Hugo Critchley,Undirected,114,,1
+Kerstin Preuschoff,Bernard Marius 't Hart,Undirected,115,,1
+Kerstin Preuschoff,Christof Koch,Undirected,116,,1
+Kerstin Preuschoff,Bernd Weber,Undirected,117,,1
+Kerstin Preuschoff,jean daunizeau,Undirected,118,,1
+Kerstin Preuschoff,Sarah Rudorf,Undirected,119,,1
+Kerstin Preuschoff,Peter N.C. Mohr,Undirected,120,,1
+Sophia Becker,Andreas Nold,Undirected,121,,1
+Christos Sourmpis,Reza Asri,Undirected,122,,1
+Christos Sourmpis,Yanqi Liu,Undirected,123,,1
+Christos Sourmpis,Anthony Renard,Undirected,124,,1
+Christos Sourmpis,Pol Bech,Undirected,125,,1
+Christos Sourmpis,Robin Dard,Undirected,126,,1
+Christos Sourmpis,Parviz Ghaderi,Undirected,127,,1
+Mathew E. Diamond,Athena Akrami,Undirected,128,,1
+Mohammad Hassan Moradi,Pooria Jafari Moghadam Fard,Undirected,129,,1
+Mohammad Hassan Moradi,Farzad Towhidkhah,Undirected,130,,1
+Mohammad Hassan Moradi,Soroosh Solhjoo,Undirected,131,,1
+Mohammad Hassan Moradi,Vahid Abootalebi,Undirected,132,,1
+Mohammad Hassan Moradi,Amin Mohammadian,Undirected,133,,1
+Athena Akrami,Carlos Brody,Undirected,134,,1
+Athena Akrami,Alessandro Treves,Undirected,135,,1
+Athena Akrami,Jonathan Pillow,Undirected,136,,1
+Athena Akrami,Ji Hyun Bak,Undirected,137,,1
+Athena Akrami,Dale M Needham,Undirected,138,,1
+Athena Akrami,Daniel Munblit,Undirected,139,,1
+Athena Akrami,Alex Piet,Undirected,140,,1
+Athena Akrami,Soroosh Solhjoo,Undirected,141,,1
+Athena Akrami,David W. Tank,Undirected,142,,1
+Athena Akrami,Tim Hanks,Undirected,143,,1
+Athena Akrami,Benjamin Scott,Undirected,144,,1
+Athena Akrami,Chunyu A Duan,Undirected,145,,1
+Athena Akrami,Federico Stella,Undirected,146,,1
+Athena Akrami,Nicholas A. Roy,Undirected,147,,1
+Athena Akrami,Seyed Mohammad Reza Hashemi Gol...,Undirected,148,,1
+Athena Akrami,Ali Motie Nasrabadi,Undirected,149,,1
+Athena Akrami,Marco Milanese,Undirected,150,,1
+Athena Akrami,Sara Ebrahimi Nasrabady,Undirected,151,,1
+Mohammad B. SHAMSOLLAHI,Christian Jutten,Undirected,152,,1
+Mohammad B. SHAMSOLLAHI,Reza Sameni,Undirected,153,,1
+Mohammad B. SHAMSOLLAHI,Lotfi Senhadji,Undirected,154,,1
+Mohammad B. SHAMSOLLAHI,Gari Clifford,Undirected,155,,1
+Mohammad B. SHAMSOLLAHI,Sepideh Hajipour Sardouie,Undirected,156,,1
+Mohammad B. SHAMSOLLAHI,Mahsa Akhbari,Undirected,157,,1
+Mohammad B. SHAMSOLLAHI,Nasim Montazeri Ghahjaverestan,Undirected,158,,1
+Mohammad B. SHAMSOLLAHI,Ali Motie Nasrabadi,Undirected,159,,1
+Mohammad B. SHAMSOLLAHI,Mohammad Niknazar,Undirected,160,,1
+Mohammad B. SHAMSOLLAHI,Isabelle Merlet,Undirected,161,,1
+Mohammad B. SHAMSOLLAHI,Parvaneh Janbakhshi,Undirected,162,,1
+Mohammad B. SHAMSOLLAHI,Reza Mousavi,Undirected,163,,1
+Mohammad B. SHAMSOLLAHI,Jean-Michel Badier,Undirected,164,,1
+Mohammad B. SHAMSOLLAHI,Hamid Niknazar,Undirected,165,,1
+Mohammad B. SHAMSOLLAHI,Arash Vosoughi,Undirected,166,,1
+Mohammad B. SHAMSOLLAHI,fabrice wendling,Undirected,167,,1
+Mohammad B. SHAMSOLLAHI,Mohammad Ayat,Undirected,168,,1
+Mohammad B. SHAMSOLLAHI,Vahid Abootalebi,Undirected,169,,1
+Mohammad B. SHAMSOLLAHI,Ronald Phlypo,Undirected,170,,1
+Mohammad B. SHAMSOLLAHI,Hossein Mamaghanian,Undirected,171,,1
+Pierre Le Merre,Marie Carlen,Undirected,172,,1
+Pierre Le Merre,Laura MJ Fernandez,Undirected,173,,1
+Farzad Towhidkhah,Shahriar Gharibzadeh,Undirected,174,,1
+Farzad Towhidkhah,Golnaz Baghdadi,Undirected,175,,1
+Farzad Towhidkhah,Yashar Sarbaz,Undirected,176,,1
+Farzad Towhidkhah,Sajad Jafari,Undirected,177,,1
+Farzad Towhidkhah,Ali Fallah,Undirected,178,,1
+Farzad Towhidkhah,saeid rashidi,Undirected,179,,1
+Farzad Towhidkhah,Heidar Ali Talebi,Undirected,180,,1
+Farzad Towhidkhah,Mohammad Ali Ahmadi-Pajouh,Undirected,181,,1
+Farzad Towhidkhah,Rasoul Mahdavifar Khayati,Undirected,182,,1
+Farzad Towhidkhah,S. Farokh Atashzar,Undirected,183,,1
+Farzad Towhidkhah,Mohammad Darainy,Undirected,184,,1
+Farzad Towhidkhah,Mahya Shahbazi,Undirected,185,,1
+Farzad Towhidkhah,"Hamed Ekhtiari, MD, PhD,",Undirected,186,,1
+Farzad Towhidkhah,Seyed Mohammad Reza Hashemi Gol...,Undirected,187,,1
+Farzad Towhidkhah,aghaeinia,Undirected,188,,1
+Farzad Towhidkhah,David Ostry,Undirected,189,,1
+Farzad Towhidkhah,Mahyar Naraghi,Undirected,190,,1
+Farzad Towhidkhah,Amin Mohammadian,Undirected,191,,1
+Farzad Towhidkhah,Hamed Azarnoush,Undirected,192,,1
+Graham Knott,Anthony Holtmaat,Undirected,193,,1
+Graham Knott,Karel Svoboda,Undirected,194,,1
+Graham Knott,"Vincenzo De Paola, PhD",Undirected,195,,1
+Graham Knott,Linda Wilbrecht,Undirected,196,,1
+Graham Knott,Pascal Fua,Undirected,197,,1
+Graham Knott,Joshua T Trachtenberg,Undirected,198,,1
+Graham Knott,Fred A. Hamprecht,Undirected,199,,1
+Graham Knott,Ullrich Köthe,Undirected,200,,1
+Graham Knott,Anna Kreshuk,Undirected,201,,1
+Graham Knott,Anne Jorstad,Undirected,202,,1
+Graham Knott,Aurelien Lucchi,Undirected,203,,1
+Graham Knott,Gordon M. G. Shepherd,Undirected,204,,1
+Graham Knott,Leonardo Sacconi,Undirected,205,,1
+Graham Knott,Carlos Portera-Cailliau,Undirected,206,,1
+Graham Knott,Anna Letizia Allegra Mascaro,Undirected,207,,1
+Graham Knott,francesco saverio pavone,Undirected,208,,1
+Graham Knott,Tobias Bonhoeffer,Undirected,209,,1
+Graham Knott,Wei-Chung Allen Lee,Undirected,210,,1
+Graham Knott,Zoltán Molnár,Undirected,211,,1
+Graham Knott,Kevin Smith,Undirected,212,,1
+Dane Corneil,Alexander Seeholzer,Undirected,213,,1
+Tilo Schwalger,Benjamin Lindner,Undirected,214,,1
+Tilo Schwalger,Moritz Deger,Undirected,215,,1
+Tilo Schwalger,Jan Benda,Undirected,216,,1
+Tilo Schwalger,Felix Droste,Undirected,217,,1
+Tilo Schwalger,Valentin Schmutz,Undirected,218,,1
+Tilo Schwalger,Andreas Herz,Undirected,219,,1
+Tilo Schwalger,Bastian Pietras,Undirected,220,,1
+Tilo Schwalger,Richard Naud,Undirected,221,,1
+Tilo Schwalger,Davide Bernardi,Undirected,222,,1
+Tilo Schwalger,Alexander Neiman,Undirected,223,,1
+Tilo Schwalger,Lutz Schimansky-Geier,Undirected,224,,1
+Tilo Schwalger,Anton V. Chizhov,Undirected,225,,1
+Tilo Schwalger,Arsen Dzhanoev,Undirected,226,,1
+Tilo Schwalger,Emanuela De Falco,Undirected,227,,1
+Tilo Schwalger,Rodrigo Quian Quiroga,Undirected,228,,1
+Tilo Schwalger,Chiara Gastaldi,Undirected,229,,1
+Tilo Schwalger,Jordi Tiana-Alsina,Undirected,230,,1
+Tilo Schwalger,Jordi Garcia-Ojalvo,Undirected,231,,1
+Florian Colombo,Alexander Seeholzer,Undirected,232,,1
+Alexander Seeholzer,Moritz Deger,Undirected,233,,1
+Alexander Seeholzer,Lukas Groschner,Undirected,234,,1
+Alexander Seeholzer,Abigail Morrison,Undirected,235,,1
+Alexander Seeholzer,Tim P. Vogels,Undirected,236,,1
+Alexander Seeholzer,Renato Duarte,Undirected,237,,1
+Alexander Seeholzer,Benedikt Obermayer,Undirected,238,,1
+Alexander Seeholzer,Erwin Frey,Undirected,239,,1
+Alexander Seeholzer,Roman Pogodin,Undirected,240,,1
+ashok litwin-kumar,Kameron Decker Harris,Undirected,241,,1
+Kameron Decker Harris,Peter Sheridan Dodds,Undirected,242,,1
+Kameron Decker Harris,Chris Danforth,Undirected,243,,1
+Kameron Decker Harris,Isabel Kloumann,Undirected,244,,1
+Kameron Decker Harris,Catherine A. Bliss,Undirected,245,,1
+Kameron Decker Harris,Morgan R. Frank,Undirected,246,,1
+Kameron Decker Harris,Lewis Mitchell,Undirected,247,,1
+Kameron Decker Harris,Eric Shea-Brown,Undirected,248,,1
+Kameron Decker Harris,Stefan Mihalas,Undirected,249,,1
+Kameron Decker Harris,Jan Marino Ramirez,Undirected,250,,1
+Mark J. Wagner,Liqun Luo,Undirected,251,,1
+Mark J. Wagner,Mark J. Schnitzer,Undirected,252,,1
+Mark J. Wagner,Tony Hyun Kim,Undirected,253,,1
+Mark J. Wagner,Surya Ganguli,Undirected,254,,1
+Mark J. Wagner,Yiyang Gong,Undirected,255,,1
+Mark J. Wagner,Oscar Hernandez,Undirected,256,,1
+Mark J. Wagner,Nghia D Nguyen,Undirected,257,,1
+Mark J. Wagner,Biafra Ahanonu,Undirected,258,,1
+Mark J. Wagner,Stephen Quake,Undirected,259,,1
+Mark J. Wagner,Maurice Smith,Undirected,260,,1
+Mark J. Wagner,Jing Ren,Undirected,261,,1
+Mark J. Wagner,Jérôme Lecoq,Undirected,262,,1
+Mark J. Wagner,Paul Sajda,Undirected,263,,1
+Mark J. Wagner,Lucas C. Parra,Undirected,264,,1
+Mark J. Wagner,Marios G. Philiastides,Undirected,265,,1
+Mark J. Wagner,Christoforos Christoforou,Undirected,266,,1
+Mark J. Wagner,Jonathan Kadmon,Undirected,267,,1
+Mark J. Wagner,Haruhiko Bito,Undirected,268,,1
+Mark J. Wagner,Hongkui Zeng,Undirected,269,,1
+Mark J. Wagner,MASATOSHI INOUE,Undirected,270,,1
+Chiara Gastaldi,Rodrigo Quian Quiroga,Undirected,271,,1
+Chiara Gastaldi,Emanuela De Falco,Undirected,272,,1
+Chiara Gastaldi,Yannis Burnier,Undirected,273,,1
+Kenji W Koyano,Takahiro Osada,Undirected,274,,1
+Kenji W Koyano,Masaki Takeda,Undirected,275,,1
+Kenji W Koyano,Teppei Matsui,Undirected,276,,1
+Takahiro Osada,Ogawa Akitoshi,Undirected,277,,1
+Takahiro Osada,Shigeki Aoki,Undirected,278,,1
+Takahiro Osada,Koji Kamagata,Undirected,279,,1
+Takahiro Osada,Kentaro Miyamoto,Undirected,280,,1
+Takahiro Osada,Teppei Matsui,Undirected,281,,1
+Takahiro Osada,Masaaki Hori,Undirected,282,,1
+Takahiro Osada,Kiyoshi Nakahara,Undirected,283,,1
+Takahiro Osada,"Takamitsu Watanabe, MD PhD",Undirected,284,,1
+Takahiro Osada,Olaf Sporns,Undirected,285,,1
+Takahiro Osada,Minoru Koyama,Undirected,286,,1
+Takahiro Osada,MIYAKAWA Naohisa,Undirected,287,,1
+Takahiro Osada,Masahiro Shibata,Undirected,288,,1
+Takahiro Osada,Hirotaka Watada,Undirected,289,,1
+Takahiro Osada,Masaki Takeda,Undirected,290,,1
+Takahiro Osada,Yoshifumi Tamura,Undirected,291,,1
+Takahiro Osada,Shinri Ohta,Undirected,292,,1
+Takahiro Osada,Koji Jimura,Undirected,293,,1
+Takahiro Osada,Osamu Abe,Undirected,294,,1
+Kentaro Miyamoto,Masaki Takeda,Undirected,295,,1
+Kentaro Miyamoto,Teppei Matsui,Undirected,296,,1
+Masaki Takeda,Kiyoshi Nakahara,Undirected,297,,1
+Masaki Takeda,Teppei Matsui,Undirected,298,,1
+Masaki Takeda,Yuji Naya,Undirected,299,,1
+Masaki Takeda,Masaki Fukunaga,Undirected,300,,1
+Masaki Takeda,Norihiro Sadato,Undirected,301,,1
+Masaki Takeda,Masatoshi Yoshida,Undirected,302,,1
+Masaki Takeda,Yukiyasu Kamitani,Undirected,303,,1
+Teppei Matsui,Tomonari Murakami,Undirected,304,,1
+Teppei Matsui,Junichi Chikazoe,Undirected,305,,1
+Teppei Matsui,"Takamitsu Watanabe, MD PhD",Undirected,306,,1
+Teppei Matsui,Olaf Sporns,Undirected,307,,1
+Teppei Matsui,Koji Jimura,Undirected,308,,1
+Teppei Matsui,Trung Quang Pham,Undirected,309,,1
+Teppei Matsui,Minoru Koyama,Undirected,310,,1
+Teppei Matsui,Kiyoshi Nakahara,Undirected,311,,1
+Teppei Matsui,Yuji Naya,Undirected,312,,1
+Teppei Matsui,Haruhiko Bito,Undirected,313,,1
+Teppei Matsui,Tsukasa Kamigaki,Undirected,314,,1
+Teppei Matsui,Norihiro Sadato,Undirected,315,,1
+Teppei Matsui,Yoshiki Hattori,Undirected,316,,1
+Teppei Matsui,Ryutaro Uchiyama,Undirected,317,,1
+Teppei Matsui,MASATO TAKI,Undirected,318,,1
+Johannes Mayrhofer,Florent Haiss,Undirected,319,,1
+Johannes Mayrhofer,Fritjof Helmchen,Undirected,320,,1
+Johannes Mayrhofer,Simon Musall,Undirected,321,,1
+Johannes Mayrhofer,Wolfger von der Behrens,Undirected,322,,1
+Johannes Mayrhofer,Matthias Wyss,Undirected,323,,1
+Johannes Mayrhofer,Philipp Mächler,Undirected,324,,1
+Johannes Mayrhofer,Matthew Barrett,Undirected,325,,1
+Johannes Mayrhofer,Aiman S. Saab,Undirected,326,,1
+Johannes Mayrhofer,Kim David Ferrari,Undirected,327,,1
+Johannes Mayrhofer,AM Hall,Undirected,328,,1
+Johannes Mayrhofer,Matthew Larkum,Undirected,329,,1
+Johannes Mayrhofer,Hanns Ulrich Zeilhofer,Undirected,330,,1
+Johannes Mayrhofer,Jillian Stobart,Undirected,331,,1
+Johannes Mayrhofer,Robert E. Zillich,Undirected,332,,1
+Johannes Mayrhofer,Siu A. Chin,Undirected,333,,1
+Junichi Chikazoe,Daniel Hyuk-Joon Lee,Undirected,334,,1
+Kaoru Inokuchi,Yugo Fukazawa,Undirected,335,,1
+Kaoru Inokuchi,Hirofumi Nishizono,Undirected,336,,1
+Kaoru Inokuchi,Mohammad Shehata,Undirected,337,,1
+Kaoru Inokuchi,Takashi Kitamura,Undirected,338,,1
+Kaoru Inokuchi,Kunihiro Tsuchida,Undirected,339,,1
+Kaoru Inokuchi,Noriko Osumi,Undirected,340,,1
+Kaoru Inokuchi,Ashok N. Hegde,Undirected,341,,1
+Christof Koch,Alex Piet,Undirected,342,,1
+Pooria Jafari Moghadam Fard,Shahriar Gharibzadeh,Undirected,343,,1
+Pooria Jafari Moghadam Fard,Saman Parvaneh,Undirected,344,,1
+Carlos Brody,Jonathan Pillow,Undirected,345,,1
+Carlos Brody,Alex Piet,Undirected,346,,1
+Alessandro Treves,Edmund T Rolls,Undirected,347,,1
+Alessandro Treves,Stefano Panzeri,Undirected,348,,1
+Alessandro Treves,Federico Stella,Undirected,349,,1
+Alessandro Treves,Bailu Si,Undirected,350,,1
+Alessandro Treves,Simon R. Schultz,Undirected,351,,1
+Alessandro Treves,Martin Tovee,Undirected,352,,1
+Alessandro Treves,Nicola van Rijsbergen,Undirected,353,,1
+Alessandro Treves,Raymond Dolan,Undirected,354,,1
+Alessandro Treves,"Carol A. Barnes, Ph.D.",Undirected,355,,1
+Alessandro Treves,Yasser Roudi,Undirected,356,,1
+Alessandro Treves,Vezha Boboeva,Undirected,357,,1
+Alessandro Treves,Elisa Ciaramelli,Undirected,358,,1
+Alessandro Treves,Eleonora Russo,Undirected,359,,1
+Alessandro Treves,Torkel Hafting,Undirected,360,,1
+Alessandro Treves,Marianne Fyhn,Undirected,361,,1
+Alessandro Treves,nicholas furl,Undirected,362,,1
+Alessandro Treves,Eugenio Urdapilleta,Undirected,363,,1
+Alessandro Treves,Leonardo Franco,Undirected,364,,1
+Alessandro Treves,Rosapia Lauro-Grotto,Undirected,365,,1
+Jonathan Pillow,Liam Paninski,Undirected,366,,1
+Jonathan Pillow,Eero P Simoncelli,Undirected,367,,1
+Jonathan Pillow,E.J. Chichilnisky,Undirected,368,,1
+Jonathan Pillow,Il Memming Park,Undirected,369,,1
+Jonathan Pillow,"Alex Huk (Alexander C Huk, AC Huk)",Undirected,370,,1
+Jonathan Pillow,Jacob L Yates,Undirected,371,,1
+Jonathan Pillow,Jonathon Shlens,Undirected,372,,1
+Jonathan Pillow,Kenneth W Latimer,Undirected,373,,1
+Jonathan Pillow,Mikio Aoi,Undirected,374,,1
+Jonathan Pillow,Anqi Wu,Undirected,375,,1
+Jonathan Pillow,Mijung Park,Undirected,376,,1
+Jonathan Pillow,Yashar Ahmadian,Undirected,377,,1
+Jonathan Pillow,Ilana B. Witten,Undirected,378,,1
+Jonathan Pillow,Kenneth A. Norman,Undirected,379,,1
+Jonathan Pillow,Evan Archer,Undirected,380,,1
+Jonathan Pillow,David M. Zoltowski,Undirected,381,,1
+Jonathan Pillow,Adam Charles,Undirected,382,,1
+Jonathan Pillow,Zoe Ashwood,Undirected,383,,1
+Jonathan Pillow,Uri Hasson,Undirected,384,,1
+Jonathan Pillow,Ji Hyun Bak,Undirected,385,,1
+Jonathan Pillow,Nicholas A. Roy,Undirected,386,,1
+Ji Hyun Bak,Changbong Hyeon,Undirected,387,,1
+Ji Hyun Bak,Jonggeol Na,Undirected,388,,1
+Ji Hyun Bak,Yong-Hyun Kim,Undirected,389,,1
+Ji Hyun Bak,Seogjoo J Jang,Undirected,390,,1
+Ji Hyun Bak,Clare Jung Yoon Choi,Undirected,391,,1
+Ji Hyun Bak,Ilana B. Witten,Undirected,392,,1
+Ji Hyun Bak,Yuno Lee,Undirected,393,,1
+Ji Hyun Bak,Anne-Florence Bitbol,Undirected,394,,1
+Ji Hyun Bak,Nicholas A. Roy,Undirected,395,,1
+Daniel Munblit,Robert J Boyle,Undirected,396,,1
+Daniel Munblit,danilo buonsenso,Undirected,397,,1
+Daniel Munblit,Diego Peroni,Undirected,398,,1
+Daniel Munblit,Margaret Eleanor O'Hara,Undirected,399,,1
+Daniel Munblit,Donna Geddes,Undirected,400,,1
+Daniel Munblit,Amanda Burls,Undirected,401,,1
+Daniel Munblit,Charitini Stavropoulou,Undirected,402,,1
+Daniel Munblit,Nikita Nekliudov,Undirected,403,,1
+Daniel Munblit,Eli Harriss,Undirected,404,,1
+Daniel Munblit,Anita Kozyrskyj,Undirected,405,,1
+Daniel Munblit,johan garssen,Undirected,406,,1
+Daniel Munblit,Ekaterina Khaleva,Undirected,407,,1
+Daniel Munblit,Dr. Pasquale Comberiati,Undirected,408,,1
+Daniel Munblit,valerie Verhasselt,Undirected,409,,1
+Daniel Munblit,Dianne Campbell,Undirected,410,,1
+Daniel Munblit,Peter Hsu,Undirected,411,,1
+Daniel Munblit,Gail Carson,Undirected,412,,1
+Daniel Munblit,CARMEN COLLADO,Undirected,413,,1
+Daniel Munblit,Carolyn Slupsky,Undirected,414,,1
+Daniel Munblit,Susan L. Prescott,Undirected,415,,1
+Alex Piet,Chunyu A Duan,Undirected,416,,1
+Alex Piet,Christine Constantinople,Undirected,417,,1
+Alex Piet,Jeffrey C. Erlich,Undirected,418,,1
+Alex Piet,Agostina Palmigiano,Undirected,419,,1
+Alex Piet,Sean R. Bittner,Undirected,420,,1
+Alex Piet,Anton Arkhipov,Undirected,421,,1
+Alex Piet,Ahmed El Hady,Undirected,422,,1
+Alex Piet,Marino Pagan,Undirected,423,,1
+Alex Piet,Alexander J Riordan,Undirected,424,,1
+Alex Piet,Kenneth D. Miller,Undirected,425,,1
+Alex Piet,John Cunningham,Undirected,426,,1
+Alex Piet,Dr. Emily Jane Dennis,Undirected,427,,1
+Alex Piet,Tyler Boyd-Meredith,Undirected,428,,1
+Alex Piet,Shawn Olsen,Undirected,429,,1
+Alex Piet,Marina Garrett,Undirected,430,,1
+Alex Piet,Douglas Ollerenshaw,Undirected,431,,1
+Alex Piet,Stefan Mihalas,Undirected,432,,1
+Soroosh Solhjoo,Brian O'Rourke,Undirected,433,,1
+Soroosh Solhjoo,Mark Haigney,Undirected,434,,1
+Soroosh Solhjoo,Ali Motie Nasrabadi,Undirected,435,,1
+Soroosh Solhjoo,Seyed Mohammad Reza Hashemi Gol...,Undirected,436,,1
+Soroosh Solhjoo,Gernot Plank,Undirected,437,,1
+Soroosh Solhjoo,Natalia Trayanova,Undirected,438,,1
+Soroosh Solhjoo,Charles Steenbergen,Undirected,439,,1
+Soroosh Solhjoo,Dong I Lee,Undirected,440,,1
+Soroosh Solhjoo,Anthony R. Artino,Undirected,441,,1
+Soroosh Solhjoo,Alexis Battista,Undirected,442,,1
+Soroosh Solhjoo,Jeroen J. G. van Merrienboer,Undirected,443,,1
+Soroosh Solhjoo,Steven Durning,Undirected,444,,1
+Soroosh Solhjoo,Lambert Schuwirth,Undirected,445,,1
+Soroosh Solhjoo,"Elexis McBee, DO, MPH",Undirected,446,,1
+Soroosh Solhjoo,Ciprian Crainiceanu,Undirected,447,,1
+Soroosh Solhjoo,Deepthi Ashok,Undirected,448,,1
+Soroosh Solhjoo,Barbara Roman,Undirected,449,,1
+Soroosh Solhjoo,junaid afzal,Undirected,450,,1
+David W. Tank,Karel Svoboda,Undirected,451,,1
+Tim Hanks,Chunyu A Duan,Undirected,452,,1
+Chunyu A Duan,Jeffrey C. Erlich,Undirected,453,,1
+Chunyu A Duan,Bingni W. Brunton,Undirected,454,,1
+Chunyu A Duan,Ning-long Xu,Undirected,455,,1
+Chunyu A Duan,Marino Pagan,Undirected,456,,1
+Chunyu A Duan,Alexander J Riordan,Undirected,457,,1
+Chunyu A Duan,Judith Grisel,Undirected,458,,1
+Nicholas A. Roy,Christos Constantinidis,Undirected,459,,1
+Nicholas A. Roy,ranulfo romo,Undirected,460,,1
+Nicholas A. Roy,John D. Murray,Undirected,461,,1
+Nicholas A. Roy,Alberto Bernacchia,Undirected,462,,1
+Nicholas A. Roy,Xiao-Jing Wang,Undirected,463,,1
+Nicholas A. Roy,Anqi Wu,Undirected,464,,1
+Nicholas A. Roy,Stephen Keeley,Undirected,465,,1
+Seyed Mohammad Reza Hashemi Gol...,Ali Motie Nasrabadi,Undirected,466,,1
+Seyed Mohammad Reza Hashemi Gol...,Shahriar Gharibzadeh,Undirected,467,,1
+Seyed Mohammad Reza Hashemi Gol...,Golnaz Baghdadi,Undirected,468,,1
+Ali Motie Nasrabadi,Seyed Kamaledin Setarehdan,Undirected,469,,1
+Ali Motie Nasrabadi,Nader Jafarnia Dabanloo,Undirected,470,,1
+Ali Motie Nasrabadi,MohammadReza  Mohammadi,Undirected,471,,1
+Ali Motie Nasrabadi,Soroor Behbahani,Undirected,472,,1
+Ali Motie Nasrabadi,Hamid Niknazar,Undirected,473,,1
+Ali Motie Nasrabadi,"Sepideh Hatamikia, PhD student",Undirected,474,,1
+Ali Motie Nasrabadi,Saman Parvaneh,Undirected,475,,1
+Ali Motie Nasrabadi,Sadaf Moharreri,Undirected,476,,1
+Ali Motie Nasrabadi,Golnaz Baghdadi,Undirected,477,,1
+Ali Motie Nasrabadi,Antonio Dourado,Undirected,478,,1
+Ali Motie Nasrabadi,Ali Khaleghi,Undirected,479,,1
+Ali Motie Nasrabadi,Mohammad Karimi Moridani,Undirected,480,,1
+Ali Motie Nasrabadi,Nasibeh Talebi,Undirected,481,,1
+Ali Motie Nasrabadi,Emad Fatemizadeh,Undirected,482,,1
+Ali Motie Nasrabadi,Mehdi Samavati,Undirected,483,,1
+Ali Motie Nasrabadi,Mohammad Mikaeili,Undirected,484,,1
+Ali Motie Nasrabadi,سيدمحمد فيروزآبادي / S.M.P. Firoozabadi,Undirected,485,,1
+Ali Motie Nasrabadi,Vahid Abootalebi,Undirected,486,,1
+Ali Motie Nasrabadi,Amin Mohammadian,Undirected,487,,1
+Christian Jutten,Massoud Babaie-Zadeh,Undirected,488,,1
+Christian Jutten,Jocelyn Chanussot,Undirected,489,,1
+Christian Jutten,Pierre Comon,Undirected,490,,1
+Christian Jutten,Reza Sameni,Undirected,491,,1
+Christian Jutten,Leonardo Tomazeli Duarte,Undirected,492,,1
+Christian Jutten,Girin Laurent,Undirected,493,,1
+Christian Jutten,Alexandre Barachant,Undirected,494,,1
+Christian Jutten,Dana Lahat,Undirected,495,,1
+Christian Jutten,Hosein Mohimani,Undirected,496,,1
+Christian Jutten,Jón Atli Benediktsson,Undirected,497,,1
+Christian Jutten,Amaury Lendasse,Undirected,498,,1
+Christian Jutten,Patrick Bas,Undirected,499,,1
+Christian Jutten,Liliann Miche,Undirected,500,,1
+Christian Jutten,Tulay Adali,Undirected,501,,1
+Christian Jutten,Ali MANSOUR,Undirected,502,,1
+Christian Jutten,Lucas Drumetz,Undirected,503,,1
+Christian Jutten,Jean-Luc Schwartz,Undirected,504,,1
+Christian Jutten,Mostafa Sadeghi,Undirected,505,,1
+Christian Jutten,Sophie Achard,Undirected,506,,1
+Christian Jutten,Mahsa Akhbari,Undirected,507,,1
+Christian Jutten,Nasim Montazeri Ghahjaverestan,Undirected,508,,1
+Reza Sameni,Gari Clifford,Undirected,509,,1
+Reza Sameni,Ali Bahrami Rad,Undirected,510,,1
+Reza Sameni,Qiao Li,Undirected,511,,1
+Reza Sameni,Ikaro Silva,Undirected,512,,1
+Reza Sameni,Matthew A Reyna,Undirected,513,,1
+Reza Sameni,maryam samieinasab,Undirected,514,,1
+Reza Sameni,Andoni Elola,Undirected,515,,1
+Reza Sameni,Erick Andres Perez Alday,Undirected,516,,1
+Reza Sameni,Jorge Henrique Caldeira de Oliveira,Undirected,517,,1
+Reza Sameni,Miguel Coimbra,Undirected,518,,1
+Reza Sameni,Francesco Renna,Undirected,519,,1
+Reza Sameni,Cédric Gouy-Pailler,Undirected,520,,1
+Reza Sameni,Shamim Nemati,Undirected,521,,1
+Reza Sameni,Saeid Sanei,Undirected,522,,1
+Reza Sameni,Jonathon A Chambers,Undirected,523,,1
+Reza Sameni,Jens Haueisen,Undirected,524,,1
+Reza Sameni,Michel Verleysen,Undirected,525,,1
+Reza Sameni,Frédéric Vrins,Undirected,526,,1
+Lotfi Senhadji,Jiasong Wu,Undirected,527,,1
+Lotfi Senhadji,fabrice wendling,Undirected,528,,1
+Lotfi Senhadji,Karim Ansari-Asl,Undirected,529,,1
+Lotfi Senhadji,Isabelle Merlet,Undirected,530,,1
+Lotfi Senhadji,Pierre Comon,Undirected,531,,1
+Lotfi Senhadji,Rui Zeng,Undirected,532,,1
+Lotfi Senhadji,Gianfranco Passariello,Undirected,533,,1
+Lotfi Senhadji,Alain Beuchée,Undirected,534,,1
+Lotfi Senhadji,Julie Coloigner,Undirected,535,,1
+Lotfi Senhadji,Fabienne Porée,Undirected,536,,1
+Lotfi Senhadji,Philippe Pibarot,Undirected,537,,1
+Lotfi Senhadji,Sara Wong,Undirected,538,,1
+Lotfi Senhadji,constantin tranulis,Undirected,539,,1
+Lotfi Senhadji,Mark van Gils,Undirected,540,,1
+Lotfi Senhadji,Lucas C. Parra,Undirected,541,,1
+Lotfi Senhadji,Serge Akoka,Undirected,542,,1
+Lotfi Senhadji,Patrick Stroman,Undirected,543,,1
+Lotfi Senhadji,Arijitt Borthakur,Undirected,544,,1
+Lotfi Senhadji,"Francois LACOMBE, PhD",Undirected,545,,1
+Gari Clifford,Qiao Li,Undirected,546,,1
+Gari Clifford,Joachim A. Behar,Undirected,547,,1
+Gari Clifford,Shamim Nemati,Undirected,548,,1
+Gari Clifford,Julien Oster,Undirected,549,,1
+Gari Clifford,Lionel Tarassenko,Undirected,550,,1
+Gari Clifford,Chengyu Liu,Undirected,551,,1
+Gari Clifford,Amit Shah,Undirected,552,,1
+Gari Clifford,Patrick McSharry,Undirected,553,,1
+Gari Clifford,Alistair Johnson,Undirected,554,,1
+Gari Clifford,Matthew A Reyna,Undirected,555,,1
+Gari Clifford,Salman Seyedi,Undirected,556,,1
+Gari Clifford,Li-wei H. Lehman,Undirected,557,,1
+Gari Clifford,David Springer,Undirected,558,,1
+Gari Clifford,Ikaro Silva,Undirected,559,,1
+Gari Clifford,Mauricio Villarroel,Undirected,560,,1
+Gari Clifford,Tingting Zhu,Undirected,561,,1
+Gari Clifford,David A. Clifton,Undirected,562,,1
+Gari Clifford,Supreeth P Shashikumar,Undirected,563,,1
+Gari Clifford,Giulia Da Poian,Undirected,564,,1
+Gari Clifford,Sepideh Hajipour Sardouie,Undirected,565,,1
+Sepideh Hajipour Sardouie,Aref Einizade,Undirected,566,,1
+Sepideh Hajipour Sardouie,Shayan Jalilpour,Undirected,567,,1
+Sepideh Hajipour Sardouie,Samaneh Nasiri,Undirected,568,,1
+Sepideh Hajipour Sardouie,Mohammad Jalilpour Monesi,Undirected,569,,1
+Sepideh Hajipour Sardouie,Vahid Abootalebi,Undirected,570,,1
+Mahsa Akhbari,Antonis Armoundas,Undirected,571,,1
+Mahsa Akhbari,Mohammad Niknazar,Undirected,572,,1
+Mahsa Akhbari,Emad Fatemizadeh,Undirected,573,,1
+Mahsa Akhbari,Maryam Hashemi,Undirected,574,,1
+Mahsa Akhbari,Massoud Babaie-Zadeh,Undirected,575,,1
+Mahsa Akhbari,Omid Sayadi,Undirected,576,,1
+Mahsa Akhbari,Nasim Montazeri Ghahjaverestan,Undirected,577,,1
+Nasim Montazeri Ghahjaverestan,Azadeh Yadollahi,Undirected,578,,1
+Nasim Montazeri Ghahjaverestan,Shumit Saha,Undirected,579,,1
+Nasim Montazeri Ghahjaverestan,Bojan Gavrilovic,Undirected,580,,1
+Nasim Montazeri Ghahjaverestan,Babak Taati,Undirected,581,,1
+Nasim Montazeri Ghahjaverestan,Muammar M. Kabir,Undirected,582,,1
+Nasim Montazeri Ghahjaverestan,Maziar Hafezi,Undirected,583,,1
+Nasim Montazeri Ghahjaverestan,Hisham Alshaer,Undirected,584,,1
+Nasim Montazeri Ghahjaverestan,Alain Beuchée,Undirected,585,,1
+Nasim Montazeri Ghahjaverestan,Sina Akbarian,Undirected,586,,1
+Nasim Montazeri Ghahjaverestan,Samira Masoudi,Undirected,587,,1
+Nasim Montazeri Ghahjaverestan,Pladys,Undirected,588,,1
+Nasim Montazeri Ghahjaverestan,Fahimeh Nazarimehr,Undirected,589,,1
+Nasim Montazeri Ghahjaverestan,Grant Gruenspan,Undirected,590,,1
+Mohammad Niknazar,Reza Mousavi,Undirected,591,,1
+Mohammad Niknazar,Hamid Niknazar,Undirected,592,,1
+Isabelle Merlet,fabrice wendling,Undirected,593,,1
+Parvaneh Janbakhshi,Ina Kodrasi,Undirected,594,,1
+Parvaneh Janbakhshi,Hervé Bourlard,Undirected,595,,1
+Reza Mousavi,Abbas Samani,Undirected,596,,1
+Reza Mousavi,Bijan Vosoughi. Vahdat,Undirected,597,,1
+Reza Mousavi,Andreu Massot Tarrús,Undirected,598,,1
+Reza Mousavi,Ali Sadeghi-Naini,Undirected,599,,1
+Reza Mousavi,Mohammad Sayyah,Undirected,600,,1
+Reza Mousavi,Hassan Rivaz,Undirected,601,,1
+Reza Mousavi,Kaamran Raahemifar,Undirected,602,,1
+Reza Mousavi,sahel motaghi,Undirected,603,,1
+Reza Mousavi,Ehsan Omidi,Undirected,604,,1
+Reza Mousavi,Lauren Flynn,Undirected,605,,1
+Reza Mousavi,L Stan Leung,Undirected,606,,1
+Reza Mousavi,Iman Khalaji,Undirected,607,,1
+Reza Mousavi,Andreas Fehlner,Undirected,608,,1
+Reza Mousavi,Ingolf Sack,Undirected,609,,1
+Reza Mousavi,David A. Steven,Undirected,610,,1
+Reza Mousavi,Hamid Niknazar,Undirected,611,,1
+Reza Mousavi,Vahid Mardanlou,Undirected,612,,1
+Reza Mousavi,Timothy Scholl,Undirected,613,,1
+Jean-Michel Badier,fabrice wendling,Undirected,614,,1
+Hamid Niknazar,Sara Mednick,Undirected,615,,1
+Hamid Niknazar,Mohammad Mikaeili,Undirected,616,,1
+Hamid Niknazar,Saman Seifpour,Undirected,617,,1
+Hamid Niknazar,Vahid Mardanlou,Undirected,618,,1
+fabrice wendling,Patrick Chauvel,Undirected,619,,1
+fabrice wendling,Pascal BENQUET,Undirected,620,,1
+fabrice wendling,Mahmoud Hassan,Undirected,621,,1
+fabrice wendling,Christian-G. Bénar,Undirected,622,,1
+fabrice wendling,Giulio Ruffini,Undirected,623,,1
+fabrice wendling,martine gavaret,Undirected,624,,1
+fabrice wendling,Gwenael Birot,Undirected,625,,1
+fabrice wendling,Aileen McGonigal,Undirected,626,,1
+fabrice wendling,Ricardo Salvador,Undirected,627,,1
+fabrice wendling,Luc Valton,Undirected,628,,1
+fabrice wendling,Javier Márquez-Ruiz,Undirected,629,,1
+fabrice wendling,José M. Delgado-García (0000-0001-7...,Undirected,630,,1
+fabrice wendling,Fernando Lopes da Silva,Undirected,631,,1
+Mohammad Ayat,Paul Teal,Undirected,632,,1
+Mohammad Ayat,Khaled Assaleh,Undirected,633,,1
+Mohammad Ayat,Hasan Al-Nashash,Undirected,634,,1
+Mohammad Ayat,Steve Elliott,Undirected,635,,1
+Mohammad Ayat,Guangjian Ni,Undirected,636,,1
+Mohammad Ayat,Maryam Ahmadi,Undirected,637,,1
+Vahid Abootalebi,Mohammad Ali Khalilzadeh,Undirected,638,,1
+Vahid Abootalebi,Mohammad Taghi Sadeghi,Undirected,639,,1
+Vahid Abootalebi,Farnaz Ghassemi,Undirected,640,,1
+Vahid Abootalebi,Mehdi Tehrani-Doost,Undirected,641,,1
+Vahid Abootalebi,Amin Mahnam,Undirected,642,,1
+Vahid Abootalebi,Maliheh Miri,Undirected,643,,1
+Vahid Abootalebi,saba ajami,Undirected,644,,1
+Vahid Abootalebi,Zahra Amini,Undirected,645,,1
+Vahid Abootalebi,Amin Mohammadian,Undirected,646,,1
+Vahid Abootalebi,Rassoul Amirfattahi,Undirected,647,,1
+Vahid Abootalebi,Ali Abooee,Undirected,648,,1
+Vahid Abootalebi,Hamid Reza Abutalebi,Undirected,649,,1
+Vahid Abootalebi,Fereshteh Salimian Rizi,Undirected,650,,1
+Vahid Abootalebi,Seyyede Zohreh Seyyedsalehi,Undirected,651,,1
+Hossein Mamaghanian,David Atienza,Undirected,652,,1
+Hossein Mamaghanian,Pierre Vandergheynst,Undirected,653,,1
+Marie Carlen,Konstantinos Meletis,Undirected,654,,1
+Marie Carlen,Karl Deisseroth,Undirected,655,,1
+Marie Carlen,Christopher Moore,Undirected,656,,1
+Marie Carlen,Jessica Cardin,Undirected,657,,1
+Marie Carlen,Ulf Knoblich,Undirected,658,,1
+Marie Carlen,Robert Cassidy,Undirected,659,,1
+Marie Carlen,Sofie Ährlund-Richter,Undirected,660,,1
+Marie Carlen,Feng Zhang,Undirected,661,,1
+Laura MJ Fernandez,Anita Luthi,Undirected,662,,1
+Laura MJ Fernandez,Gil Vantomme,Undirected,663,,1
+Laura MJ Fernandez,Lecci Sandro,Undirected,664,,1
+Laura MJ Fernandez,James Poulet,Undirected,665,,1
+Laura MJ Fernandez,Jan Born,Undirected,666,,1
+Shahriar Gharibzadeh,Fatemeh Bakouie,Undirected,667,,1
+Shahriar Gharibzadeh,Yashar Sarbaz,Undirected,668,,1
+Shahriar Gharibzadeh,Mohammad Reza Raoufy,Undirected,669,,1
+Shahriar Gharibzadeh,Sajad Jafari,Undirected,670,,1
+Shahriar Gharibzadeh,"Sayed Shahabuddin Hoseini MD, PhD",Undirected,671,,1
+Shahriar Gharibzadeh,Sareh Zendehrouh,Undirected,672,,1
+Shahriar Gharibzadeh,AmirHossein Memari,Undirected,673,,1
+Shahriar Gharibzadeh,Ali Fallah,Undirected,674,,1
+Shahriar Gharibzadeh,"Pouria Moshayedi, M.D. Ph.D",Undirected,675,,1
+Shahriar Gharibzadeh,Keivan Moradi,Undirected,676,,1
+Shahriar Gharibzadeh,Mohsen Parviz,Undirected,677,,1
+Shahriar Gharibzadeh,Parisa Ghanouni,Undirected,678,,1
+Shahriar Gharibzadeh,Mojtaba Hajihasani,Undirected,679,,1
+Shahriar Gharibzadeh,Mansoor Keshavarz,Undirected,680,,1
+Shahriar Gharibzadeh,Ali Hassanvand,Undirected,681,,1
+Shahriar Gharibzadeh,Mohammad Haeri,Undirected,682,,1
+Shahriar Gharibzadeh,Maryam Mehdizadeh Dastjerdi,Undirected,683,,1
+Shahriar Gharibzadeh,Alireza Mani,Undirected,684,,1
+Shahriar Gharibzadeh,Golnaz Baghdadi,Undirected,685,,1
+Golnaz Baghdadi,Rostami Reza,Undirected,686,,1
+Golnaz Baghdadi,Sajad Jafari,Undirected,687,,1
+Golnaz Baghdadi,Julien Clinton Sprott,Undirected,688,,1
+Sajad Jafari,Karthikeyan Rajagopal,Undirected,689,,1
+Sajad Jafari,Julien Clinton Sprott,Undirected,690,,1
+Sajad Jafari,Dr. Christos Volos,Undirected,691,,1
+Sajad Jafari,Fatemeh Parastesh,Undirected,692,,1
+Sajad Jafari,Fahimeh Nazarimehr,Undirected,693,,1
+Sajad Jafari,Tomasz Kapitaniak,Undirected,694,,1
+Sajad Jafari,Matjaž Perc,Undirected,695,,1
+Sajad Jafari,Hamidreza Namazi,Undirected,696,,1
+Sajad Jafari,Dibakar Ghosh,Undirected,697,,1
+Sajad Jafari,Chunbiao Li,Undirected,698,,1
+Sajad Jafari,Jun Ma,Undirected,699,,1
+Sajad Jafari,J.M. Munoz-Pacheco,Undirected,700,,1
+Sajad Jafari,Nikolay V. Kuznetsov,Undirected,701,,1
+Sajad Jafari,Shaobo He,Undirected,702,,1
+Sajad Jafari,Esteban Tlelo-Cuautle,Undirected,703,,1
+Sajad Jafari,Gennady A. Leonov,Undirected,704,,1
+Sajad Jafari,Awadhesh Prasad,Undirected,705,,1
+Sajad Jafari,luigi fortuna,Undirected,706,,1
+Ali Fallah,saeid rashidi,Undirected,707,,1
+saeid rashidi,Sarineh Keshishzadeh,Undirected,708,,1
+saeid rashidi,Ali Kazemi,Undirected,709,,1
+saeid rashidi,Ahmad Keshtkar,Undirected,710,,1
+saeid rashidi,Mahdad Esmaeili,Undirected,711,,1
+saeid rashidi,Maryam Mehdizadeh Dastjerdi,Undirected,712,,1
+saeid rashidi,Hamed Azarnoush,Undirected,713,,1
+saeid rashidi,Rolando Del Maestro,Undirected,714,,1
+saeid rashidi,Ahmad Shalbaf,Undirected,715,,1
+saeid rashidi,Zahra Taghizadeh,Undirected,716,,1
+saeid rashidi,Mahtab Mehrabbeik,Undirected,717,,1
+saeid rashidi,"Alexander Winkler-Schwartz, MD PhD",Undirected,718,,1
+saeid rashidi,Vincent Bissonnette,Undirected,719,,1
+saeid rashidi,Tirdad Seifi Ala,Undirected,720,,1
+saeid rashidi,Ahmad Rujoie,Undirected,721,,1
+saeid rashidi,Farzaneh Firoozbakht,Undirected,722,,1
+saeid rashidi,ali maleki,Undirected,723,,1
+saeid rashidi,Negar Massihi,Undirected,724,,1
+saeid rashidi,Farangis Sajadi Moghadam,Undirected,725,,1
+Heidar Ali Talebi,S. Farokh Atashzar,Undirected,726,,1
+Heidar Ali Talebi,Mahya Shahbazi,Undirected,727,,1
+S. Farokh Atashzar,Rajni V Patel,Undirected,728,,1
+S. Farokh Atashzar,Mahya Shahbazi,Undirected,729,,1
+S. Farokh Atashzar,Arash Mohammadi,Undirected,730,,1
+S. Farokh Atashzar,Mahdi Tavakoli,Undirected,731,,1
+S. Farokh Atashzar,Prof. Dr. Dario Farina,Undirected,732,,1
+S. Farokh Atashzar,Elahe Rahimian,Undirected,733,,1
+S. Farokh Atashzar,mandar jog,Undirected,734,,1
+S. Farokh Atashzar,Sarmad Mehrdad,Undirected,735,,1
+S. Farokh Atashzar,Qin Hu,Undirected,736,,1
+S. Farokh Atashzar,Soroosh Shahtalebi,Undirected,737,,1
+S. Farokh Atashzar,Navid Feizi,Undirected,738,,1
+S. Farokh Atashzar,Rory O'Keeffe,Undirected,739,,1
+S. Farokh Atashzar,Martyna Stachaczyk,Undirected,740,,1
+S. Farokh Atashzar,Ilia G. Polushin,Undirected,741,,1
+S. Farokh Atashzar,Seyed Yahya Shirazi,Undirected,742,,1
+S. Farokh Atashzar,Ravi Vaidyanathan,Undirected,743,,1
+S. Farokh Atashzar,Dr. Carlos Sebastian Mancero Castillo,Undirected,744,,1
+S. Farokh Atashzar,Paras Gulati,Undirected,745,,1
+Mohammad Darainy,David Ostry,Undirected,746,,1
+Mahya Shahbazi,Rajni V Patel,Undirected,747,,1
+Mahya Shahbazi,Mahdi Tavakoli,Undirected,748,,1
+Mahya Shahbazi,Niravkumar A Patel,Undirected,749,,1
+Mahya Shahbazi,Iulian I. Iordachita,Undirected,750,,1
+Mahya Shahbazi,Peter Gehlbach,Undirected,751,,1
+Mahya Shahbazi,M. J. Yazdanpanah,Undirected,752,,1
+Mahya Shahbazi,"Fariborz Rahimi, Ph.D.",Undirected,753,,1
+Mahya Shahbazi,Mehdi Delrobaei,Undirected,754,,1
+Mahya Shahbazi,Russell H. Taylor,Undirected,755,,1
+Mahya Shahbazi,Changyan He,Undirected,756,,1
+Mahya Shahbazi,Olivia Samotus,Undirected,757,,1
+Mahya Shahbazi,Max Zhaoshuo Li | 李赵硕,Undirected,758,,1
+Mahya Shahbazi,Preetham chalasani,Undirected,759,,1
+Mahya Shahbazi,Khushi Vyas,Undirected,760,,1
+Mahya Shahbazi,Marin Kobilarov,Undirected,761,,1
+Mahya Shahbazi,Hamid D. Taghirad,Undirected,762,,1
+Mahya Shahbazi,Michael Naish,Undirected,763,,1
+"Hamed Ekhtiari, MD, PhD,",Martin Paulus,Undirected,764,,1
+"Hamed Ekhtiari, MD, PhD,",Rayus Kuplicki,Undirected,765,,1
+"Hamed Ekhtiari, MD, PhD,",Ali Farhoudian,Undirected,766,,1
+"Hamed Ekhtiari, MD, PhD,",Ghazaleh Soleimani,Undirected,767,,1
+"Hamed Ekhtiari, MD, PhD,",Michael Nitsche,Undirected,768,,1
+"Hamed Ekhtiari, MD, PhD,",Tara Rezapour,Undirected,769,,1
+"Hamed Ekhtiari, MD, PhD,",Alireza Noroozi,Undirected,770,,1
+"Hamed Ekhtiari, MD, PhD,",Marom Bikson,Undirected,771,,1
+"Hamed Ekhtiari, MD, PhD,",arian behzadi,Undirected,772,,1
+"Hamed Ekhtiari, MD, PhD,",Alexander Baldacchino,Undirected,773,,1
+"Hamed Ekhtiari, MD, PhD,",Habib Ganjgahi,Undirected,774,,1
+"Hamed Ekhtiari, MD, PhD,","Alireza Shahbabaie, Ph.D",Undirected,775,,1
+"Hamed Ekhtiari, MD, PhD,",Seyed Ramin Radfar,Undirected,776,,1
+"Hamed Ekhtiari, MD, PhD,",Parnian Rafei,Undirected,777,,1
+"Hamed Ekhtiari, MD, PhD,","Hanie Edalati, PhD",Undirected,778,,1
+"Hamed Ekhtiari, MD, PhD,",Marc Potenza,Undirected,779,,1
+"Hamed Ekhtiari, MD, PhD,","Peyman Ghobadi-Azbari, PhD",Undirected,780,,1
+"Hamed Ekhtiari, MD, PhD,",Kathleen T Brady,Undirected,781,,1
+"Hamed Ekhtiari, MD, PhD,","Ali Jannati, MD, PhD",Undirected,782,,1
+"Hamed Ekhtiari, MD, PhD,",Abhishek Datta,Undirected,783,,1
+aghaeinia,Amin Mohammadian,Undirected,784,,1
+David Ostry,Paul L. Gribble,Undirected,785,,1
+David Ostry,Kevin G. Munhall,Undirected,786,,1
+David Ostry,Douglas Shiller,Undirected,787,,1
+David Ostry,Rafael Laboissière,Undirected,788,,1
+David Ostry,J Randall Flanagan,Undirected,789,,1
+David Ostry,Takayuki Ito,Undirected,790,,1
+David Ostry,Shahabeddin Vahdat,Undirected,791,,1
+David Ostry,Nicole Malfait,Undirected,792,,1
+David Ostry,Eric Vatikiotis-Bateson,Undirected,793,,1
+David Ostry,Daniel R. Lametti,Undirected,794,,1
+David Ostry,Lauren E Sergio,Undirected,795,,1
+David Ostry,Vittorio Sanguineti,Undirected,796,,1
+David Ostry,Amélie Rochet-Capellan,Undirected,797,,1
+David Ostry,Pascal Perrier,Undirected,798,,1
+David Ostry,Floris T. van Vugt,Undirected,799,,1
+David Ostry,Mindy Levin,Undirected,800,,1
+David Ostry,Nicolò Francesco Bernardi,Undirected,801,,1
+Mahyar Naraghi,Ali Tehrani Safa,Undirected,802,,1
+Mahyar Naraghi,Ali Tavasoli,Undirected,803,,1
+Mahyar Naraghi,Mohammad Zareinejad,Undirected,804,,1
+Mahyar Naraghi,Mojtaba Moradi,Undirected,805,,1
+Mahyar Naraghi,Aria Alasty,Undirected,806,,1
+Mahyar Naraghi,Ali Roshanbin,Undirected,807,,1
+Mahyar Naraghi,m shamshirsaz,Undirected,808,,1
+Mahyar Naraghi,Seyed Mehdi Rezaei,Undirected,809,,1
+Mahyar Naraghi,Jose De Dona,Undirected,810,,1
+Mahyar Naraghi,Vahid Nazari,Undirected,811,,1
+Mahyar Naraghi,Iman Sharifi,Undirected,812,,1
+Mahyar Naraghi,S.M.Hadi Sadati,Undirected,813,,1
+Mahyar Naraghi,Amin Nikoobin,Undirected,814,,1
+Mahyar Naraghi,Heman Shakeri,Undirected,815,,1
+Mahyar Naraghi,Hamed Ghafarirad,Undirected,816,,1
+Mahyar Naraghi,Rayan Bahrami,Undirected,817,,1
+Mahyar Naraghi,Poorya Haghi,Undirected,818,,1
+Mahyar Naraghi,Abdolreza Ohadi,Undirected,819,,1
+Mahyar Naraghi,Hosein Fooladi,Undirected,820,,1
+Amin Mohammadian,zahra bahmani,Undirected,821,,1
+Amin Mohammadian,amir mehrnam,Undirected,822,,1
+Amin Mohammadian,Mahrad Ghodousi,Undirected,823,,1
+Amin Mohammadian,Kian Hamedani,Undirected,824,,1
+Amin Mohammadian,Farshad Almasganj,Undirected,825,,1
+Amin Mohammadian,Farnaz Ghassemi,Undirected,826,,1
+Amin Mohammadian,Amin Derakhshan,Undirected,827,,1
+Hamed Azarnoush,"Alexander Winkler-Schwartz, MD PhD",Undirected,828,,1
+Hamed Azarnoush,Rolando Del Maestro,Undirected,829,,1
+Hamed Azarnoush,fahad alotaibi,Undirected,830,,1
+Hamed Azarnoush,Abdulrahman Jafar Sabbagh MBChB...,Undirected,831,,1
+Hamed Azarnoush,Jawad Fares,Undirected,832,,1
+Hamed Azarnoush,Benoit Boulet,Undirected,833,,1
+Hamed Azarnoush,Guy lamouche,Undirected,834,,1
+Hamed Azarnoush,Penny Werthner,Undirected,835,,1
+Hamed Azarnoush,Sébastien Vergnole,Undirected,836,,1
+Hamed Azarnoush,Susanne Lajoie,Undirected,837,,1
+Hamed Azarnoush,Valérie Pazos,Undirected,838,,1
+Anthony Holtmaat,Karel Svoboda,Undirected,839,,1
+Anthony Holtmaat,"Vincenzo De Paola, PhD",Undirected,840,,1
+Anthony Holtmaat,Linda Wilbrecht,Undirected,841,,1
+Anthony Holtmaat,Anne Jorstad,Undirected,842,,1
+Karel Svoboda,Loren Looger,Undirected,843,,1
+Karel Svoboda,Nuo Li,Undirected,844,,1
+Karel Svoboda,Daniel Huber,Undirected,845,,1
+Karel Svoboda,Winfried Denk,Undirected,846,,1
+Karel Svoboda,Steven M. Block,Undirected,847,,1
+Karel Svoboda,Eric R Schreiter,Undirected,848,,1
+Karel Svoboda,Vivek Jayaraman,Undirected,849,,1
+Karel Svoboda,BERNARDO SABATINI,Undirected,850,,1
+Karel Svoboda,Daniel H. O'Connor,Undirected,851,,1
+Karel Svoboda,Tsai-Wen Chen (陳摘文),Undirected,852,,1
+Karel Svoboda,Leopoldo Petreanu,Undirected,853,,1
+Karel Svoboda,Samuel Andrew Hires,Undirected,854,,1
+Karel Svoboda,Gordon M. G. Shepherd,Undirected,855,,1
+Karel Svoboda,Tianyi Mao,Undirected,856,,1
+Karel Svoboda,Linda Wilbrecht,Undirected,857,,1
+Karel Svoboda,Ryohei Yasuda,Undirected,858,,1
+Karel Svoboda,Zachary F Mainen,Undirected,859,,1
+Karel Svoboda,"Vincenzo De Paola, PhD",Undirected,860,,1
+"Vincenzo De Paola, PhD",Linda Wilbrecht,Undirected,861,,1
+"Vincenzo De Paola, PhD",Carlos Portera-Cailliau,Undirected,862,,1
+"Vincenzo De Paola, PhD",Sudhakar Selvaraj,Undirected,863,,1
+"Vincenzo De Paola, PhD",David Owen,Undirected,864,,1
+"Vincenzo De Paola, PhD",Mattia Veronese,Undirected,865,,1
+"Vincenzo De Paola, PhD",Alessandra Bertoldo,Undirected,866,,1
+"Vincenzo De Paola, PhD",Joshua T Trachtenberg,Undirected,867,,1
+"Vincenzo De Paola, PhD",Gaia Rizzo,Undirected,868,,1
+"Vincenzo De Paola, PhD",Johanna Jackson,Undirected,869,,1
+"Vincenzo De Paola, PhD",piergiorgio strata,Undirected,870,,1
+"Vincenzo De Paola, PhD",Leonardo Sacconi,Undirected,871,,1
+"Vincenzo De Paola, PhD",Nadine Gogolla,Undirected,872,,1
+"Vincenzo De Paola, PhD",Tobias Bonhoeffer,Undirected,873,,1
+"Vincenzo De Paola, PhD",Wei-Chung Allen Lee,Undirected,874,,1
+"Vincenzo De Paola, PhD",Ricardo Mostany,Undirected,875,,1
+"Vincenzo De Paola, PhD",Thomas Mrsic-Flogel,Undirected,876,,1
+"Vincenzo De Paola, PhD",Sonja Hofer,Undirected,877,,1
+Linda Wilbrecht,Ronald E Dahl,Undirected,878,,1
+Linda Wilbrecht,Kristen Delevich,Undirected,879,,1
+Linda Wilbrecht,David Piekarski,Undirected,880,,1
+Linda Wilbrecht,Anne GE Collins,Undirected,881,,1
+Linda Wilbrecht,Wan Chen Lin,Undirected,882,,1
+Linda Wilbrecht,Lung-Hao Tai,Undirected,883,,1
+Linda Wilbrecht,Josiah R. Boivin,Undirected,884,,1
+Linda Wilbrecht,Carolyn Johnson,Undirected,885,,1
+Linda Wilbrecht,Abraham Beyene,Undirected,886,,1
+Linda Wilbrecht,Nicholas Allen,Undirected,887,,1
+Linda Wilbrecht,Lance J. Kriegsfeld,Undirected,888,,1
+Linda Wilbrecht,Markita Landry,Undirected,889,,1
+Linda Wilbrecht,Cristopher Niell,Undirected,890,,1
+Linda Wilbrecht,David Bannerman,Undirected,891,,1
+Linda Wilbrecht,"A Moses Lee, MD PhD",Undirected,892,,1
+Pascal Fua,Vincent Lepetit,Undirected,893,,1
+Pascal Fua,Mathieu Salzmann,Undirected,894,,1
+Pascal Fua,François Fleuret,Undirected,895,,1
+Pascal Fua,Kevin Smith,Undirected,896,,1
+Pascal Fua,Christoph Strecha,Undirected,897,,1
+Pascal Fua,Helge Rhodin,Undirected,898,,1
+Pascal Fua,Sabine Süsstrunk,Undirected,899,,1
+Pascal Fua,Francesc Moreno-Noguer,Undirected,900,,1
+Pascal Fua,Daniel Thalmann,Undirected,901,,1
+Pascal Fua,Raquel Urtasun,Undirected,902,,1
+Pascal Fua,Slobodan Ilic,Undirected,903,,1
+Pascal Fua,Raphael Sznitman,Undirected,904,,1
+Pascal Fua,David J Fleet,Undirected,905,,1
+Pascal Fua,Olivier Faugeras,Undirected,906,,1
+Pascal Fua,Dimitris Samaras,Undirected,907,,1
+Pascal Fua,Anne Jorstad,Undirected,908,,1
+Pascal Fua,Aurelien Lucchi,Undirected,909,,1
+Fred A. Hamprecht,Anna Kreshuk,Undirected,910,,1
+Fred A. Hamprecht,Bjoern H Menze,Undirected,911,,1
+Fred A. Hamprecht,Bjoern Andres,Undirected,912,,1
+Fred A. Hamprecht,Thorsten Beier,Undirected,913,,1
+Fred A. Hamprecht,Christoph-Nikolas Straehle,Undirected,914,,1
+Fred A. Hamprecht,Carsten Haubold,Undirected,915,,1
+Fred A. Hamprecht,Hanno Steen,Undirected,916,,1
+Fred A. Hamprecht,Martin Schiegg,Undirected,917,,1
+Fred A. Hamprecht,Bernhard Renard,Undirected,918,,1
+Fred A. Hamprecht,Judith A. Jebanathirajah Steen,Undirected,919,,1
+Fred A. Hamprecht,Bernhard X. Kausler,Undirected,920,,1
+Fred A. Hamprecht,Melih Kandemir,Undirected,921,,1
+Fred A. Hamprecht,Christoph Sommer,Undirected,922,,1
+Fred A. Hamprecht,Jörg Hendrik Kappes,Undirected,923,,1
+Fred A. Hamprecht,Michael Hanselmann,Undirected,924,,1
+Fred A. Hamprecht,"Xinghua Lou, Ph.D.",Undirected,925,,1
+Fred A. Hamprecht,Steffen Wolf,Undirected,926,,1
+Fred A. Hamprecht,Adrian Wolny,Undirected,927,,1
+Fred A. Hamprecht,Ferran Diego,Undirected,928,,1
+Fred A. Hamprecht,Ullrich Köthe,Undirected,929,,1
+Ullrich Köthe,Lynton Ardizzone,Undirected,930,,1
+Ullrich Köthe,Carsten Rother,Undirected,931,,1
+Ullrich Köthe,Christoph-Nikolas Straehle,Undirected,932,,1
+Ullrich Köthe,Anna Kreshuk,Undirected,933,,1
+Ullrich Köthe,Thorsten Beier,Undirected,934,,1
+Ullrich Köthe,Bjoern Andres,Undirected,935,,1
+Ullrich Köthe,Jakob Kruse,Undirected,936,,1
+Ullrich Köthe,Martin Schiegg,Undirected,937,,1
+Ullrich Köthe,Stefan T. Radev,Undirected,938,,1
+Ullrich Köthe,Carsten Haubold,Undirected,939,,1
+Ullrich Köthe,Lena Maier-Hein,Undirected,940,,1
+Ullrich Köthe,Ralf Klessen,Undirected,941,,1
+Ullrich Köthe,Stuart Berg,Undirected,942,,1
+Ullrich Köthe,Peer Stelldinger,Undirected,943,,1
+Ullrich Köthe,Bernhard X. Kausler,Undirected,944,,1
+Ullrich Köthe,Christoph Sommer,Undirected,945,,1
+Ullrich Köthe,Bernhard Renard,Undirected,946,,1
+Ullrich Köthe,Winfried Denk,Undirected,947,,1
+Anna Kreshuk,Constantin Pape,Undirected,948,,1
+Anna Kreshuk,Adrian Wolny,Undirected,949,,1
+Anna Kreshuk,Thorsten Beier,Undirected,950,,1
+Anna Kreshuk,Christoph-Nikolas Straehle,Undirected,951,,1
+Anna Kreshuk,Stuart Berg,Undirected,952,,1
+Anna Kreshuk,Dominik Kutra,Undirected,953,,1
+Anna Kreshuk,Alberto Bailoni,Undirected,954,,1
+Anna Kreshuk,Martin Schiegg,Undirected,955,,1
+Anna Kreshuk,Yannick Schwab,Undirected,956,,1
+Anna Kreshuk,Lorenzo Cerrone,Undirected,957,,1
+Anna Kreshuk,Steffen Wolf,Undirected,958,,1
+Anna Kreshuk,Valentyna Zinchenko,Undirected,959,,1
+Anna Kreshuk,Kay Schneitz,Undirected,960,,1
+Anna Kreshuk,Athul Vijayan,Undirected,961,,1
+Anna Kreshuk,Alexis Maizel,Undirected,962,,1
+Anna Kreshuk,Kimberly Meechan,Undirected,963,,1
+Anna Kreshuk,Robert Prevedel,Undirected,964,,1
+Anne Jorstad,Daniel DeMenthon,Undirected,965,,1
+Anne Jorstad,Philippe Burlina,Undirected,966,,1
+Anne Jorstad,Corrado Calì,Undirected,967,,1
+Anne Jorstad,João Martins,Undirected,968,,1
+Anne Jorstad,Rachel Heyard,Undirected,969,,1
+Anne Jorstad,Matthias Egger,Undirected,970,,1
+Anne Jorstad,David W. Jacobs,Undirected,971,,1
+Anne Jorstad,Carlos Becker,Undirected,972,,1
+Anne Jorstad,Ngo Tien Dat,Undirected,973,,1
+Anne Jorstad,Alain Trouvé,Undirected,974,,1
+Anne Jorstad,I-Jeng Wang,Undirected,975,,1
+Aurelien Lucchi,Thomas Hofmann,Undirected,976,,1
+Aurelien Lucchi,Kevin Smith,Undirected,977,,1
+Aurelien Lucchi,Radhakrishna Achanta,Undirected,978,,1
+Aurelien Lucchi,Sabine Süsstrunk,Undirected,979,,1
+Aurelien Lucchi,Antonio Orvieto,Undirected,980,,1
+Aurelien Lucchi,Jonas Kohler,Undirected,981,,1
+Aurelien Lucchi,hadi daneshmand,Undirected,982,,1
+Aurelien Lucchi,Stefan Woerner,Undirected,983,,1
+Aurelien Lucchi,Martin Jaggi,Undirected,984,,1
+Aurelien Lucchi,Christa Zoufal,Undirected,985,,1
+Aurelien Lucchi,Yunpeng Li,Undirected,986,,1
+Aurelien Lucchi,Jan Dirk Wegner,Undirected,987,,1
+Aurelien Lucchi,Sebastian Nowozin,Undirected,988,,1
+Aurelien Lucchi,Kevin Roth,Undirected,989,,1
+Aurelien Lucchi,Brian McWilliams,Undirected,990,,1
+Aurelien Lucchi,Leonard Adolphs,Undirected,991,,1
+Aurelien Lucchi,Francis Bach,Undirected,992,,1
+Aurelien Lucchi,Kfir Yehuda Levy,Undirected,993,,1
