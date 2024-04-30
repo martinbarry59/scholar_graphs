@@ -31,7 +31,7 @@ def main(args):
     print("starting from profile of :", name)
     print("Depth of graphs:", depth)
 
-    profiles = utils.getScholarID(name, depth)
+    profiles = utils.scrape_coauthors_from_name(name, depth)
 
 
 if __name__ == "__main__":

@@ -30,11 +30,12 @@ def main(args):
         else os.path.join(parent_dir, "profiles", "all_people_datas.pickle")
     )
     depth_graphs = args.depth if args.depth else 2
+    init_author = args.author if args.depth else 'Martin Barry'
 
     print("Using edge list at:", path_to_edgelist)
     print("Depth of graphs:", depth_graphs)
 
-    utils.create_coauthor_graph(path_to_edgelist, depth_graphs=depth_graphs)
+    utils.create_coauthor_graph(path_to_edgelist, depth_graphs=depth_graphs, init_author=init_author)
 
 
 if __name__ == "__main__":
@@ -43,6 +44,7 @@ if __name__ == "__main__":
     )
     parser.add_argument("--depth", type=int, help="Depth of the graphs to be generated")
     parser.add_argument("--path", type=str, help="Path to the edge list data file")
+    parser.add_argument("--author", type=str, help="author to start the graph from")
 
     args = parser.parse_args()
     main(args)
