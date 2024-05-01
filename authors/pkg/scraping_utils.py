@@ -1,21 +1,13 @@
-import networkx as nx
-import numpy as np
-from pyvis.network import Network
-import matplotlib.pyplot as plt
 import pickle
-from urllib.parse import urlsplit, parse_qsl
-import pandas as pd
 import http.client
 import re
 import time
 from bs4 import BeautifulSoup
-import pandas as pd
 import sys
 import os
-from pathlib import Path
 
 ## Loading and making a global variable for all the known ids to avoid re-scraping the same author
-parent_dir = str(Path(os.getcwd()).parents[0])
+parent_dir = '/'.join(os.path.abspath(__file__).split('/')[:-2])
 sys.path.append(parent_dir + "/pkg/")
 known_ids = []
 with open(parent_dir + "/profiles/all_people_datas.pickle", "rb") as handle:

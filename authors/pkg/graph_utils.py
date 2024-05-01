@@ -1,16 +1,8 @@
 import networkx as nx
-import numpy as np
-from pyvis.network import Network
-import matplotlib.pyplot as plt
 import pickle
-from serpapi import GoogleSearch
-from urllib.parse import urlsplit, parse_qsl
-import pandas as pd
-import http.client
-import re
-
-from bs4 import BeautifulSoup
-
+import os
+parent_dir = '/'.join(os.path.abspath(__file__).split('/')[:-2])
+print(parent_dir)
 colors = ["b", "r", "g", "m", "y"]
 
 
@@ -51,20 +43,6 @@ def one_level_graph(G, data, author):
     return G
 
 
-def draw(G):
-    """
-    Draw a graph using the Fruchterman-Reingold layout algorithm.
-
-    Parameters:
-    - G: NetworkX graph object
-
-    Returns:
-    None
-    """
-    pos = nx.fruchterman_reingold_layout(G, scale=2)
-    nx.draw(G, pos)
-
-    plt.show()
 def saving_edge_list(G, filename):
     """
     Save the edge list of a graph to a file.
@@ -99,7 +77,7 @@ def create_coauthor_graph(path_to_edglist=None, depth_graphs=2, init_author = No
 
     G = nx.Graph()
     G = one_level_graph(G, data[author], author)
-    saving_edge_list(G, f"../profiles/graphs/{author} level {0}.csv")
+    saving_edge_list(G, parent_dir+f"/profiles/graphs/{author} level {0}.csv")
 
     ## make the graph deeper -> coauthors of coauthors and so on.
     for level in range(depth_graphs):
@@ -111,5 +89,5 @@ def create_coauthor_graph(path_to_edglist=None, depth_graphs=2, init_author = No
                     done_authors += [new_author]
                 except:
                     pass
-        saving_edge_list(G, f"../profiles/graphs/{author} level {level+1}.csv")
+        saving_edge_list(G, parent_dir+f"/profiles/graphs/{author} level {level+1}.csv")
 

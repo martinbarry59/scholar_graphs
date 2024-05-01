@@ -2,7 +2,8 @@ import sys
 import os
 from pathlib import Path
 
-parent_dir = str(Path(os.getcwd()).parents[0])
+parent_dir = '/'.join(os.path.abspath(__file__).split('/')[:-2])
+print(parent_dir)
 sys.path.append(parent_dir + "/pkg/")
 import scraping_utils as utils
 import argparse
